@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Kalkulator
+namespace Calculator
 {
     class Program
     {
@@ -22,7 +22,7 @@ namespace Kalkulator
 
         static void Main(string[] args)
         {
-            Console.Title = "Aplikasi Kalkulator";
+            Console.Title = "Aplikasi Calculator";
             
             Console.WriteLine(" ");
 
